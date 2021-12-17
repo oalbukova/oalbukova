@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olga Albukova.
 - 👀 I’m interested in web-development.
-- 🌱 I’m currently learning Fuse React + tailwind.
+- 🌱 I’m currently learning: React + Redux, TypeScript, Atomic Design + Styled Components, Storybook, CSS Modules.
 - 📫 How to reach me: o.albukova@gmail.com, +7-980-551-57-22 
 
 <!---
