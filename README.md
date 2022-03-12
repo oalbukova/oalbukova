@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olga Albukova.
 - 👀 I’m interested in web-development.
-- 🌱 I’m currently learning: React + Redux, TypeScript, Atomic Design + Styled Components, Storybook, CSS Modules.
+- 🌱 I’m currently learning: JS, React + Redux, TypeScript.
 - 📫 How to reach me: o.albukova@gmail.com, +7-980-551-57-22 
 
 <!---
