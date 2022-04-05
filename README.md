@@ -7,6 +7,7 @@
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  , I'm Olga
 </h1>
 <div align="center">
    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -15,15 +16,19 @@
 ---
 
 ### :woman_technologist: About Me :
-My name is Olga and I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m working as a Web-developer and contributing to frontend for building web applications.
 
-- :seedling: Exploring new skills and frameworks.
+- :seedling: I am constantly learning new things.
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox: How to reach me: o.albukova@yandex.ru, +7-980-551-57-22
+- 💪 I like to write code.
+
+- 🎉 I Love CrossFit, Nordic Walking and to read.
+
+- :mailbox: How to reach me: o.albukova@yandex.ru, +7-980-551-57-22.
 
 ---
 
@@ -64,10 +69,13 @@ My name is Olga and I am a Frontend Developer <img src="https://media.giphy.com/
 ---
 
 ### :fire: My Stats :
+[![Codewarrior Profile Badges](https://www.codewars.com/users/oalbukova/badges/large)](https://www.codewars.com/users/oalbukova)
+
+<a href="https://github-readme-stats.vercel.app/api?username=oalbukova&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=oalbukova&hide=contribs&show_icons=true" />
+</a> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oalbukova&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oalbukova&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/oalbukova/badges/large)](https://www.codewars.com/users/oalbukova)
-<a href="https://github-readme-stats.vercel.app/api?username=oalbukova&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=oalbukova&hide=contribs&show_icons=true" />
-</a>
+
